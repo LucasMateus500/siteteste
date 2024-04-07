@@ -1,4 +1,4 @@
-site teste :  fleek hosting ,
-ipfs ,
-unstoppabledomains - davinci7.blockchain
+site teste   fleek hosting 
+ipfs 
+unstoppabledomains 
 
